@@ -2,6 +2,9 @@
 
 This app is built with [create-react-app](https://github.com/facebook/create-react-app).
 
+[Live demo](http://greenc.github.io/venue-chooser)
+
+
 ### Additional dependencies
 None
 
