@@ -1,12 +1,12 @@
 # Developer Programming Problem
 
 ## Introduction  
-Don’t stress about the challenge too much – it’s supposed to be fun and a way for us to get a  feel for your level of experience.  
+Don’t stress about the challenge too much – it’s supposed to be fun and a way for us to get a feel for your level of experience.  
 
 Here are some tips and guidelines:
 
 - We don’t expect you to spend more than 2-3 hours on this challenge.
-- If you don’t have time to fully complete the challenge, please still send it in and indicate  what your next steps would be. 
+- If you don’t have time to fully complete the challenge, please still send it in and indicate what your next steps would be. 
 - This is not a pass or fail exercise we just want to get an idea of how you approach  solving problems. 
 - Use any frameworks you want. 
 - KISS - Keep it Seriously Simple. Don’t overthink or over engineer it. 
@@ -17,10 +17,10 @@ Here are some tips and guidelines:
 - Secret tip: Make use of the sample data ;) Don’t forget data sources can be messy. Problem: Where should we go?
 
 ## The Problem  
-The Time Out team loves to socialise, some of us are also really fussy! In order to spend less  time deciding where to go we’d like a program that decides for us. All members of the team will want both food and drink so if a member of staff cannot eat anything, or no drinks are served that they like, the team will not visit the venue. 
+The Time Out team loves to socialise, some of us are also really fussy! In order to spend less time deciding where to go we’d like a program that decides for us. All members of the team will want both food and drink so if a member of staff cannot eat anything, or no drinks are served that they like, the team will not visit the venue. 
 
 ### The Input  
-There are two JSON feeds, one of which is a list of the team members with what they do drink  and do not eat, the other feed contains venues with the food and drink options for that venue. 
+There are two JSON feeds, one of which is a list of the team members with what they do drink and do not eat, the other feed contains venues with the food and drink options for that venue. 
 The person using the app needs to be able to enter which team members will be attending.
 
 ### The Output  
